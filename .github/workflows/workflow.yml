@@ -7,7 +7,7 @@
 #     d. All the other app specific config parameters
 
 
-name: Build & Deploy to AKS
+name: Build & Deploy to Azure AKS
 on: [push]
 env:
   CONFIG_PORT: '8888'
