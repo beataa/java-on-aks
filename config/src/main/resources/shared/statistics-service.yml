@@ -19,4 +19,4 @@ server:
   port: 7000
 
 rates:
-  url: https://api.exchangeratesapi.io
+  url: http://api.exchangeratesapi.io/latest?access_key=d86ce578b25caac2e3cefb0c1177d034
